@@ -1,6 +1,6 @@
-##MQTT
+## MQTT
 
-#WHAT IS MQTT?
+# WHAT IS MQTT?
 MQTT (Message Queue Telemetry Transport) is a simple and ‘lightweight’ way for internet-connected devices to send each other messages.
 This is important for RPC used in Automotive Telemetry. Where the Diagnostic information of vehicle like Speed,RPM,Location Service(GPS)etc., will 
 transported via MQTT message techniques. Devices using MQTT communicate by publishing data to topics.
